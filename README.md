@@ -70,4 +70,6 @@ I test LSTM-DPD model for the case SNR = 25 dB
 - Normalized Mean Square Error: -23.79 dB
 - Visulization of training loss curves, constellation diagrams, AM/AM characteristics and AM/PM distortion:
   ![https://github.com/KingdomNguyen/image_2/blob/main/Screenshot%202025-08-06%20215604.jpg](https://github.com/KingdomNguyen/image_2/blob/main/Screenshot%202025-08-06%20215604.jpg)
+### References
+[1] Z. He and F. Tong, "Residual RNN Models With Pruning for Digital Predistortion of RF Power Amplifiers," IEEE Transactions on Vehicular Technology 71, no. 9 (September 2022): 9735–9750,
 
